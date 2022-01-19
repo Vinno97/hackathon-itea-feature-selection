@@ -1,0 +1,12 @@
+name: hackathon-feature-selection
+channels:
+  - conda-forge
+dependencies:
+  - ipykernel
+  - matplotlib
+  - tabulate
+  - tqdm
+  - pandas
+  - scikit-learn
+  - seaborn
+  - wandb
