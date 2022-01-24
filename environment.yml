@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - ipykernel
+  - ipywidgets
   - matplotlib
   - tabulate
   - tqdm
